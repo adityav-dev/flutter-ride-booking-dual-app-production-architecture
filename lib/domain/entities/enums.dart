@@ -1,0 +1,31 @@
+enum RideStatus {
+  REQUESTED,
+  DRIVER_ASSIGNED,
+  DRIVER_ARRIVING,
+  RIDE_STARTED,
+  RIDE_COMPLETED,
+  CANCELLED
+}
+
+enum DriverStatus {
+  OFFLINE,
+  ONLINE_IDLE,
+  DRIVER_ASSIGNED, // On the way to pickup
+  RIDE_STARTED,    // During the ride
+  PENDING_VERIFICATION,
+  APPROVED,
+  SUSPENDED
+}
+
+enum StripeStatus {
+  NOT_STARTED,
+  PENDING,
+  VERIFIED,
+  REJECTED
+}
+
+enum UserRole {
+  RIDER,
+  DRIVER,
+  ADMIN
+}

@@ -81,3 +81,15 @@ Integrated with **Stripe Connect Express**:
 - **Database**: PostgreSQL (Relational) + Redis (Geo/Cache)
 - **Payments**: Stripe Connect Express
 - **Infrastructure**: Docker, K8s, AWS/GCP
+
+## 📞 Contact & Opportunities
+**Aditya Verma** – Flutter Developer | Mobile App Developer | Building Scalable Apps & MVPs for Startups  
+Helping startups & companies build **scalable, real-time, high-performance apps**
+
+- 📧 Email: [adityaverma15.cs@gmail.com](mailto:adityaverma15.cs@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/adityav-dev](https://www.linkedin.com/in/adityav-dev/)  
+- 🌐 Portfolio: [https://www.adityaverma.dev](https://www.adityaverma.dev/)  
+- 📝 Medium Articles: [https://adityaverma-dev.medium.com/](https://adityaverma-dev.medium.com/)  
+- 🌍 Available for **freelance, remote projects, and full-time opportunities**  
+
+

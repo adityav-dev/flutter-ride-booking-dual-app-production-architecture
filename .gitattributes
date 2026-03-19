@@ -9,6 +9,10 @@
 *.swift linguist-vendored
 CMakeLists.txt linguist-vendored
 *.html linguist-vendored
-*.gradle linguist-vendored
 *.kt linguist-vendored
 *.java linguist-vendored
+*.gradle linguist-vendored
+
+# Optional: ignore entire folders with legacy C++/other files
+cpp/** linguist-vendored
+legacy/** linguist-vendored
